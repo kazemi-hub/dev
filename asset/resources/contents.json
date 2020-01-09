@@ -1,0 +1,8 @@
+{
+    "contents": {
+        "page_links": ["page_link1.html", "page_link2.html"],
+        "texts": ["text1", "text2"],
+        "headers": ["header1", "header2"],
+        "img_urls": ["img_url1", "img_url2"]
+    }
+}
